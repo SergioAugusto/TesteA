@@ -1,2 +1,7 @@
 Sergio1
+
+<<<<<<< HEAD
 mudei local
+=======
+teste1
+>>>>>>> de4cf080e8eb51dfe2ff40857a589b66a97f2b17
